@@ -1,0 +1,50 @@
+.content {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 auto;
+}
+
+.content-left {
+  width: 520px;
+}
+
+.content-left__caption {
+  font-size: 44px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.7;
+  line-height: 1.1;
+  margin-bottom: 20px;
+}
+
+.content-left__description {
+  font-size: 18px;
+  letter-spacing: 0.7;
+  line-height: 1.1;
+  margin-bottom: 30px;
+}
+
+.button-first {
+  width: 240px;
+  height: 60px;
+  background-color: #f30;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1.5;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.button-first:hover {
+  background-color: rgba(207, 42, 1, 0.87);
+}
+
+.content-right {
+  width: 480px;
+  height: 320px;
+  background-color: rgba(255, 0, 0, 0.315);
+  border-radius: 14px 0 0 0;
+}
