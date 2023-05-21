@@ -1,4 +1,4 @@
-# lanfing-sass
+# landing-sass
 Мини-копия макета Landing для обкатки технологий Grid и SASS
 
 1. Установка расширения Live SASS Compile;
